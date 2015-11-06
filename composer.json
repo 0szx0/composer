@@ -1,7 +1,11 @@
 {
-"name": "szxfirst2/test",
-"require": {
-"php": ">=5.3.0",
-"another-vendor/package": "1.1.1"
-}
+	"name": "szxfirst2/test",
+	"description": "A package which have a test",
+	"license": "MIT",
+	"authors": [{
+		"name": "szx",
+		"email": "502607696@qq.com"
+	}],
+	"minimum-stability": "dev",
+	"require": {}
 }
