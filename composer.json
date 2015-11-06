@@ -1,5 +1,7 @@
 {
+"name": "composer/szxfirst1",
 "require": {
-"monolog/monolog": "1.2.*"
+"php": ">=5.3.0",
+"another-vendor/package": "1.*"
 }
 }
