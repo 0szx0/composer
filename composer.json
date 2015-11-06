@@ -13,7 +13,7 @@
             }
         ],
         "require": {
-            "szxszxszx1/test": "dev-master"
+            "szxfirst1/test": "dev-master"
         },
         "autoload": {
             "psr-0": {
