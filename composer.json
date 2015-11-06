@@ -1,0 +1,10 @@
+{
+    "name": "szx/test",
+    "repositories": [{
+        "type": "vcs",
+        "url": "https://github.com/0szx0/composer"
+    }],
+    "require": {
+        "acme/hello-world": "dev-master"
+    }
+}
