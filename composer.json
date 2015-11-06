@@ -1,5 +1,5 @@
 {
-"name": "composer/szxfirst1",
+"name": "szxfirst1/test",
 "require": {
 "php": ">=5.3.0",
 "another-vendor/package": "1.*"
