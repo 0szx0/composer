@@ -1,7 +1,7 @@
 {
-"name": "szxfirst1/test",
+"name": "szxfirst2/test",
 "require": {
 "php": ">=5.3.0",
-"another-vendor/package": "1.*"
+"another-vendor/package": "1.1.1"
 }
 }
