@@ -1,23 +1,5 @@
 {
-    "name": "szxfirst1/test",
-    "description": "php message queue wrapper ",
-    "license": "MIT",
-    "keywords": ["messagequeue "],
-        "version":
-        "1.0.0",
-        "authors":
-        [
-            {
-                "name": "Jenner",
-                "email": "hypxm@qq.com"
-            }
-        ],
-        "require": {
-            "szxfirst1/test": "master"
-        },
-        "autoload": {
-            "psr-0": {
-                "Jenner\\Zebra\\MessageQueue": "src/"
-            }
-        }
-    }
+"require": {
+"monolog/monolog": "1.2.*"
+}
+}
